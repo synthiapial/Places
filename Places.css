@@ -1,0 +1,29 @@
+div{
+    height: 300px;
+/*    background-color: grey;*/
+    margin: 0;
+    padding: 0;
+}
+.NavSize{
+    height: auto
+}
+
+
+body{
+    padding-top: 20px;
+    background-color: white;
+}
+
+.nav-justified{
+    background-color: #fff;
+    border-radius: 2px;
+    border: 1px solid grey;
+   
+}
+
+.nav-justified > li >a{
+    padding: 10px 0;
+    text-align: center;
+    color: black;
+    background-color: lightsteelblue;
+}
